@@ -4,16 +4,16 @@
 
 I bring a programming foundation to defensive security: Python, SQL, Linux and networking fundamentals, with an interest in security operations and reliable infrastructure.
 
-My Computer Programming studies are at Ege University's Tire Kutsan Vocational School. My software and IT placements included SQL work, Python debugging and maintenance, Git and code reviews. I have completed Google's introductory Cybersecurity Professional Certificate; I keep training and portfolio work distinct from production experience.
+My Computer Programming studies are at Ege University's Tire Kutsan Vocational School. My software and IT placements included SQL work, Python debugging and maintenance, Git and code reviews. Google's Cybersecurity Professional Certificate complements that programming foundation with networking, security operations and incident-response concepts.
 
 ## Selected work
 
 | Project | What to inspect |
 | --- | --- |
-| **[EvidenceDesk](https://github.com/nsametarslan/EvidenceDesk)** | Local authentication triage workspace. Strict imports, transparent time-window rules, source fingerprints, persistent review snapshots and case exports. Python / Flask / SQLite; tests, synthetic data and a real UI demo. AI-assisted portfolio project. |
+| **[EvidenceDesk](https://github.com/nsametarslan/EvidenceDesk)** | Local authentication triage workspace. Strict imports, transparent time-window rules, source fingerprints, persistent review snapshots and case exports. Python / Flask / SQLite; tests, synthetic data and a real UI demo. Defensive portfolio project. |
 | **[Driver Kontrol](https://github.com/nsametarslan/Driver-Kontrol)** | Earlier Windows device-inventory utility using WMI and Tkinter. The README describes its actual scope and current limitations. |
 
-EvidenceDesk is the current flagship. The next milestone is a tested authentication export adapter with explicit field mapping, not a second unrelated project.
+EvidenceDesk is the current flagship. The next milestone is a tested authentication export adapter with explicit field mapping.
 
 ## Technical direction
 
